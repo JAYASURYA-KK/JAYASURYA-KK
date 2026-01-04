@@ -139,10 +139,6 @@
       <br>Nginx
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/n8n-icon.svg" width="48" height="48" alt="n8n" />
-      <br>n8n
-    </td>
-    <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
       <br>VS Code
     </td>
@@ -158,19 +154,26 @@
 ## 📊 GitHub Stats:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JAYASURYA-KK&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" width="48%"/>
-  <img src="https://streak-stats.demolab.com/?user=JAYASURYA-KK&theme=radical&hide_border=true" alt="GitHub Streak" width="48%"/>
+  ## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JAYASURYA-KK&show_icons=true&theme=radical&hide_border=true&count_private=true)
+
+## 🔥 GitHub Streak
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JAYASURYA-KK&theme=radical&hide_border=true)](https://git.io/streak-stats)
+
+## 📈 Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JAYASURYA-KK&layout=compact&theme=radical&hide_border=true&langs_count=8)
+
+## 🏆 GitHub Trophies
+</a>
 </div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JAYASURYA-KK&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8&card_width=400" alt="Top Languages" />
 </div>
 
----
-
-## 🐍 My Contribution Snake:
-
-![snake gif](https://github.com/JAYASURYA-KK/JAYASURYA-KK/blob/output/github-snake-dark.svg)
 ---
 
 ## 🏆 GitHub Trophies:
@@ -198,5 +201,11 @@
 ### 💼 Open for Opportunities | 🤝 Let's Collaborate | 📧 Reach Out Anytime
 
 **Show some ❤️ by starring some of my repositories!**
+
+</div>
+
+<div align="center">
+  
+![snake gif](https://github.com/JAYASURYA-KK/JAYASURYA-KK/blob/output/github-snake-dark.svg)
 
 </div>
