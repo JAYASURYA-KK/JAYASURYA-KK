@@ -170,8 +170,7 @@
 
 ## 🐍 My Contribution Snake:
 
-![Contribution snake example](https://github.com/JAYASURYA-KK/JAYASURYA-KK/blob/output/github-contribution-grid-snake.svg)
-
+![snake gif](https://github.com/JAYASURYA-KK/JAYASURYA-KK/blob/output/github-snake-dark.svg)
 ---
 
 ## 🏆 GitHub Trophies:
