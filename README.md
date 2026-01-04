@@ -151,31 +151,6 @@
 
 ---
 
-## 📊 GitHub Stats:
-
-<div align="center">
-  ## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JAYASURYA-KK&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-## 🔥 GitHub Streak
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JAYASURYA-KK&theme=radical&hide_border=true)](https://git.io/streak-stats)
-
-## 📈 Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JAYASURYA-KK&layout=compact&theme=radical&hide_border=true&langs_count=8)
-
-## 🏆 GitHub Trophies
-</a>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JAYASURYA-KK&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8&card_width=400" alt="Top Languages" />
-</div>
-
----
-
 ## 🏆 GitHub Trophies:
 
 <p align="center">
